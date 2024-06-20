@@ -1,1 +1,0 @@
-{"intercept": 38.569490038824554, "coefficients": [-0.26993585793807834, 0.006662546996200391, 0.019179492976405303, 5.438168081005495, -5.4381680810055055, 2.9505124130328726, -2.950512413032874], "numeric_features": ["age", "height", "weight"], "categorical_features": ["diabetes_history", "diabetes_heritage"]}
